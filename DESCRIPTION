@@ -7,8 +7,6 @@ Description: External jars required for package ReporteRs. ReporteRs is an
 Date: 2014-03-01
 Author: David Gohel <david.gohel@lysis-consultants.fr>
 Maintainer: David Gohel <david.gohel@lysis-consultants.fr>
-Depends:
-    R (>= 3.0)
 Imports:
     rJava
 SystemRequirements: java (>= 1.6)
